@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Smartphone,Electronics,12000
+2,Laptop,Electronics,45000
+3,Bluetooth Speaker,Electronics,3000
+4,T-Shirt,Fashion,500
+5,Jeans,Fashion,1200
+6,Sneakers,Fashion,2200
+7,Wall Clock,Home Decor,800
+8,Photo Frame,Home Decor,400
+9,Table Lamp,Home Decor,1500
+10,Cushion Cover,Home Decor,350
